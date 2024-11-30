@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ptvyas&theme=default&show_icons=true)
